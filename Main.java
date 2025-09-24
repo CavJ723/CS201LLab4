@@ -74,7 +74,6 @@ public class Main {
                 }
 
                 System.out.println("\n\tPROCESSING BOTH MATRICES");
-                System.out.println("\n\tPROCESSING BOTH MATRICES");
 
                 //if both are valid and the sizes are compatible, add the matrices
                 //PART2: if both are valid and the sizes are compatible, multiply the matrices
